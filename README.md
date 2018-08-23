@@ -1,5 +1,5 @@
 ## Java ScriptEngine example
-sThere are interpreters for various script languages for use with the JVM. Here is a simple example as a JUnit test.
+There are interpreters for various script languages for use with the JVM. Here is a simple example as a JUnit test.
 
 *Most interpreters are not up to date with the latest programming language, but they can still be useful if you want 
 to make an application extensible.*
